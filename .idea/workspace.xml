@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b8947ea-1d3f-43fd-aa3d-0aeb5eba45ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__sm_rc409.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__sm_rc409.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__sm_rc409.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__sm_rc409.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="sm-rc409.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.4680187" vertical-offset="0" max-vertical-offset="641">
+            <state line="3" column="3" selection-start="54" selection-end="54" vertical-scroll-proportion="0.070202805" vertical-offset="0" max-vertical-offset="641">
               <folding />
             </state>
           </provider>
@@ -366,13 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sm-rc241/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="29" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
@@ -380,9 +368,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../sm-rc241/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.4680187" vertical-offset="0" max-vertical-offset="525">
+        <state line="3" column="3" selection-start="54" selection-end="54" vertical-scroll-proportion="0.070202805" vertical-offset="0" max-vertical-offset="641">
           <folding />
         </state>
       </provider>

@@ -1,6 +1,8 @@
 Railscast sm-rc409
 ===================
-Serializer: Gem is useful if want to customize the JSON output.
+Serializer:
+```
+Gem is useful if want to customize the JSON output.
 ```
 GemFile basic gems
 ```
